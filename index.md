@@ -2,10 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>汪先锋个人简介</title>
+<title>汪先锋个人简介 <</title>
 </head>
 
 <body>
+<p>汪先锋个人简介</p>
 <p> 农历1971年12月27出生 </p>
 </body>
 </html>
+
